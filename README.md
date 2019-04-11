@@ -1,6 +1,6 @@
 # Leetcode
 
-## Algorithms
+## Algorithms
 |  #	|	Title	|	Solution	|	Difficulty	|
 | -------- | -------- | -------- | -------- |
 | 1 | Two Sum | Javascript | Easy |
