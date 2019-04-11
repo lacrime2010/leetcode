@@ -1,5 +1,18 @@
 # Leetcode
 
+## Algorithms
+|  #	|	Title	|	Solution	|	Difficulty	|
+| -------- | -------- | -------- | -------- |
+| 1 | Two Sum | Javascript | Easy |
+| 7 | Reverse Integer | Javascript | Easy |
+| 9 | Palindrome Number | Javascript | Easy |
+| 13 | Roman to Integer | Javascript | Easy |
+| 14 | Longest Common Prefix | Javascript | Easy |
+| 20 | Valid Parentheses | Javascript | Easy |
+
+
+
+
 ## Database
 |  #	|	Title	|	Solution	|	Difficulty	|
 | -------- | -------- | -------- | -------- |
