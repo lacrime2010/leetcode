@@ -9,11 +9,9 @@
 | 13 | Roman to Integer | Javascript | Easy |
 | 14 | Longest Common Prefix | Javascript | Easy |
 | 20 | Valid Parentheses | Javascript | Easy |
-| 21 | Merge Two Sorted Lists | Javascript | Easy |
-| 26 | Remove Duplicates from Sorted Array | Javascript | Easy |
-| 27 | Remove Element | Javascript | Easy |
-| 28 | Implement strStr() | Javascript | Easy |
-| 38 | Count and Say | Javascript | Easy |
+
+
+
 
 ## Database
 |  #	|	Title	|	Solution	|	Difficulty	|
