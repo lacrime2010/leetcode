@@ -14,6 +14,8 @@
 | 27 | Remove Element | Javascript | Easy |
 | 28 | Implement strStr() | Javascript | Easy |
 | 38 | Count and Say | Javascript | Easy |
+| 53 | Maximum Subarray | Javascript | Easy |
+| 58 | Length of Last Word | Javascript | Easy |
 
 ## Database
 |  #	|	Title	|	Solution	|	Difficulty	|
