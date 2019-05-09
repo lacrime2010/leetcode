@@ -18,6 +18,8 @@
 | 58 | Length of Last Word | Javascript | Easy |
 | 66 | Plus One | Javascript | Easy |
 | 67 | Add Binary | Javascript | Easy |
+| 69 | Sqrt(x) | Javascript | Easy |
+| 70 | Climbing Stairs | Javascript | Easy |
 
 ## Database
 |  #	|	Title	|	Solution	|	Difficulty	|
