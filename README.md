@@ -17,6 +17,7 @@
 | 53 | Maximum Subarray | Javascript | Easy |
 | 58 | Length of Last Word | Javascript | Easy |
 | 66 | Plus One | Javascript | Easy |
+| 67 | Add Binary | Javascript | Easy |
 
 ## Database
 |  #	|	Title	|	Solution	|	Difficulty	|
