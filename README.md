@@ -22,6 +22,7 @@
 | 70 | Climbing Stairs | Javascript | Easy |
 | 83 | Remove Duplicates from Sorted List | Javascript | Easy |
 | 88 | Merge Sorted Array | Javascript | Easy |
+| 100 | Same Tree | Javascript | Easy |
 
 
 ## Database
