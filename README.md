@@ -24,6 +24,7 @@
 | 88 | Merge Sorted Array | Javascript | Easy |
 | 100 | Same Tree | Javascript | Easy |
 | 101 | Symmetric Tree | Javascript | Easy |
+| 104 | Maximum Depth of Binary Tree | Javascript | Easy |
 
 
 ## Database
