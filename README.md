@@ -28,8 +28,7 @@
 | 107 | Binary Tree Level Order Traversal II | Javascript | Easy |
 | 108 | Convert Sorted Array to Binary Search Tree | Javascript | Easy |
 | 110 | Balanced Binary Tree | Javascript | Easy |
-
-
+| 111 | Minimum Depth of Binary Tree | Javascript | Easy |
 
 ## Database
 |  #	|	Title	|	Solution	|	Difficulty	|
@@ -50,4 +49,3 @@
 | 620 | Not Boring Movies  | MySQL | Easy |
 | 626 | Exchange Seats | MySQL | Medium |
 | 627 | Swap Salary | MySQL | Easy |
-
