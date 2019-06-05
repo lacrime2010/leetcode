@@ -29,6 +29,7 @@
 | 108 | Convert Sorted Array to Binary Search Tree | Javascript | Easy |
 | 110 | Balanced Binary Tree | Javascript | Easy |
 | 111 | Minimum Depth of Binary Tree | Javascript | Easy |
+| 112 | Path Sum | Javascript | Easy |
 
 ## Database
 |  #	|	Title	|	Solution	|	Difficulty	|
