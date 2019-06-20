@@ -43,6 +43,7 @@
 | 182 | Duplicate Emails | MySQL | Easy |
 | 183 | Customers Who Never Order | MySQL | Easy |
 | 184 | Department Highest Salary | MySQL | Medium |
+| 185 | Department Top Three Salaries | MySQL | Hard |
 | 196 | Delete Duplicate Emails | MySQL | Easy |
 | 197 | Rising Temperature | MySQL | Easy |
 | 595 | Big Countries | MySQL | Easy |
