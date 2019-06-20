@@ -30,6 +30,7 @@
 | 110 | Balanced Binary Tree | Javascript | Easy |
 | 111 | Minimum Depth of Binary Tree | Javascript | Easy |
 | 112 | Path Sum | Javascript | Easy |
+| 118 | Pascal's Triangle | Javascript | Easy |
 
 ## Database
 |  #	|	Title	|	Solution	|	Difficulty	|
