@@ -3,7 +3,7 @@
 ## Algorithms
 |  #	|	Title	|	Solution	|	Difficulty	|
 | -------- | -------- | -------- | -------- |
-| 1 | Two Sum | Javascript | Easy |
+| 1 | Two Sum | Javascript, JAVA | Easy |
 | 7 | Reverse Integer | Javascript | Easy |
 | 9 | Palindrome Number | Javascript | Easy |
 | 13 | Roman to Integer | Javascript | Easy |
