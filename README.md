@@ -31,6 +31,9 @@
 | 111 | Minimum Depth of Binary Tree | Javascript | Easy |
 | 112 | Path Sum | Javascript | Easy |
 | 118 | Pascal's Triangle | Javascript | Easy |
+| 119 | Pascal's Triangle II | Javascript | Easy |
+| 121 | Best Time to Buy and Sell Stock | Javascript | Easy |
+
 
 ## Database
 |  #	|	Title	|	Solution	|	Difficulty	|
