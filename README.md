@@ -33,6 +33,10 @@
 | 118 | Pascal's Triangle | Javascript | Easy |
 | 119 | Pascal's Triangle II | Javascript | Easy |
 | 121 | Best Time to Buy and Sell Stock | Javascript | Easy |
+| 122 | Best Time to Buy and Sell Stock II | Javascript | Easy |
+| 125 | Valid Palindrome | Javascript | Easy |
+| 136 | Single Number | Javascript | Easy |
+| 141 | Linked List Cycle | Javascript | Easy |
 
 
 ## Database
