@@ -37,6 +37,7 @@
 | 125 | Valid Palindrome | Javascript | Easy |
 | 136 | Single Number | Javascript | Easy |
 | 141 | Linked List Cycle | Javascript | Easy |
+| 155 | Min Stack | Javascript | Easy |
 
 
 ## Database
