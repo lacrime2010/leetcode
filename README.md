@@ -39,7 +39,7 @@
 | 141 | Linked List Cycle | Javascript | Easy |
 | 155 | [Min Stack](https://github.com/lacrime2010/leetcode/blob/master/Algorithms/javascript/155.Min%20Stack.js) | Javascript | Easy |
 | 160 | [Intersection of Two Linked Lists](https://github.com/lacrime2010/leetcode/blob/master/Algorithms/javascript/160.Intersection%20of%20Two%20Linked%20Lists.js) | Javascript | Easy |
-
+| 167 | [Two Sum II - Input array is sorted](https://github.com/lacrime2010/leetcode/blob/master/Algorithms/javascript/167.Two%20Sum%20II%20-%20Input%20array%20is%20sorted.js) | Javascript | Easy |
 
 ## Database
 |  #	|	Title	|	Solution	|	Difficulty	|
