@@ -3,7 +3,7 @@
 ## Algorithms
 |  #	|	Title	|	Solution	|	Difficulty	|
 | -------- | -------- | -------- | -------- |
-| 1 | Two Sum | Javascript, JAVA | Easy |
+| 1 | Two Sum | [Javascript](https://github.com/lacrime2010/leetcode/blob/master/Algorithms/javascript/1-Two-Sum.js), [JAVA](https://github.com/lacrime2010/leetcode/blob/master/Algorithms/JAVA/1-Two-Sum.java), [PHP](https://github.com/lacrime2010/leetcode/blob/master/Algorithms/PHP/1.Two%20Sum.php) | Easy |
 | 7 | Reverse Integer | Javascript | Easy |
 | 9 | Palindrome Number | Javascript | Easy |
 | 13 | Roman to Integer | Javascript | Easy |
@@ -37,9 +37,9 @@
 | 125 | Valid Palindrome | Javascript | Easy |
 | 136 | Single Number | Javascript | Easy |
 | 141 | Linked List Cycle | Javascript | Easy |
-| 155 | [Min Stack](https://github.com/lacrime2010/leetcode/blob/master/Algorithms/javascript/155.Min%20Stack.js) | Javascript | Easy |
-| 160 | [Intersection of Two Linked Lists](https://github.com/lacrime2010/leetcode/blob/master/Algorithms/javascript/160.Intersection%20of%20Two%20Linked%20Lists.js) | Javascript | Easy |
-| 167 | [Two Sum II - Input array is sorted](https://github.com/lacrime2010/leetcode/blob/master/Algorithms/javascript/167.Two%20Sum%20II%20-%20Input%20array%20is%20sorted.js) | Javascript | Easy |
+| 155 | Min Stack | [Javascript](https://github.com/lacrime2010/leetcode/blob/master/Algorithms/javascript/155.Min%20Stack.js) | Easy |
+| 160 | Intersection of Two Linked Lists | [Javascript](https://github.com/lacrime2010/leetcode/blob/master/Algorithms/javascript/160.Intersection%20of%20Two%20Linked%20Lists.js) | Easy |
+| 167 | Two Sum II - Input array is sorted | [Javascript](https://github.com/lacrime2010/leetcode/blob/master/Algorithms/javascript/167.Two%20Sum%20II%20-%20Input%20array%20is%20sorted.js) | Easy |
 
 ## Database
 |  #	|	Title	|	Solution	|	Difficulty	|
