@@ -40,6 +40,8 @@
 | 155 | Min Stack | [Javascript](https://github.com/lacrime2010/leetcode/blob/master/Algorithms/javascript/155.Min%20Stack.js) | Easy |
 | 160 | Intersection of Two Linked Lists | [Javascript](https://github.com/lacrime2010/leetcode/blob/master/Algorithms/javascript/160.Intersection%20of%20Two%20Linked%20Lists.js) | Easy |
 | 167 | Two Sum II - Input array is sorted | [Javascript](https://github.com/lacrime2010/leetcode/blob/master/Algorithms/javascript/167.Two%20Sum%20II%20-%20Input%20array%20is%20sorted.js) | Easy |
+| 168 | Excel Sheet Column Title - Input array is sorted | [Javascript](https://github.com/lacrime2010/leetcode/blob/master/Algorithms/javascript/168.Excel%20Sheet%20Column%20Title.js) | Easy |
+
 
 ## Database
 |  #	|	Title	|	Solution	|	Difficulty	|
