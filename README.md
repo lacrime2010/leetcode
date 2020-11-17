@@ -43,6 +43,7 @@
 | 167 | Two Sum II - Input array is sorted               | [Javascript](https://github.com/lacrime2010/leetcode/blob/master/Algorithms/javascript/167.Two%20Sum%20II%20-%20Input%20array%20is%20sorted.js)                                                                                                                                             | Easy       |
 | 168 | Excel Sheet Column Title - Input array is sorted | [Javascript](https://github.com/lacrime2010/leetcode/blob/master/Algorithms/javascript/168.Excel%20Sheet%20Column%20Title.js)                                                                                                                                                               | Easy       |
 | 169 | Majority Element                                 | Javascript                                                                                                                                                                                                                                                                                  | Easy       |
+| 171 | Excel Sheet Column Number                        | Javascript                                                                                                                                                                                                                                                                                  | Easy       |
 
 ## Database
 
