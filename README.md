@@ -44,6 +44,7 @@
 | 168 | Excel Sheet Column Title - Input array is sorted | [Javascript](https://github.com/lacrime2010/leetcode/blob/master/Algorithms/javascript/168.Excel%20Sheet%20Column%20Title.js)                                                                                                                                                               | Easy       |
 | 169 | Majority Element                                 | Javascript                                                                                                                                                                                                                                                                                  | Easy       |
 | 171 | Excel Sheet Column Number                        | Javascript                                                                                                                                                                                                                                                                                  | Easy       |
+| 172 | Factorial Trailing Zeroes                        | Javascript                                                                                                                                                                                                                                                                                  | Easy       |
 
 ## Database
 
